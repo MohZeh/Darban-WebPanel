@@ -1,0 +1,5 @@
+# The panel runs on Linux; a CRLF checkout on Windows would change templates and scripts.
+* text=auto eol=lf
+*.gz binary
+*.woff2 binary
+*.png binary

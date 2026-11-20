@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://github.com/MohZeh/Darban-WebPanel/security/advisories/new
+    about: Report vulnerabilities privately.
+  - name: A problem with the VPN server itself
+    url: https://github.com/MohZeh/Darban-OVPN/issues
+    about: Clients, links, revocation and server setup belong to Darban OVPN.
